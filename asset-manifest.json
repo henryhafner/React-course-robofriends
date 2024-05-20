@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-course-robofriends/static/css/main.ded2a9a2.css",
+    "main.js": "/React-course-robofriends/static/js/main.7a1572d7.js",
+    "static/js/453.eceb90f9.chunk.js": "/React-course-robofriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/React-course-robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/React-course-robofriends/index.html",
+    "main.ded2a9a2.css.map": "/React-course-robofriends/static/css/main.ded2a9a2.css.map",
+    "main.7a1572d7.js.map": "/React-course-robofriends/static/js/main.7a1572d7.js.map",
+    "453.eceb90f9.chunk.js.map": "/React-course-robofriends/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded2a9a2.css",
+    "static/js/main.7a1572d7.js"
+  ]
+}
